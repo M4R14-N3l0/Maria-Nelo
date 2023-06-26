@@ -1,7 +1,7 @@
-𝑨𝒄𝒕𝒖𝒂𝒍𝒎𝒆𝒏𝒕𝒆 𝒔𝒐𝒚 𝒆𝒔𝒕𝒖𝒅𝒊𝒂𝒏𝒕𝒆 𝒅𝒆 𝑫𝒆𝒔𝒂𝒓𝒓𝒐𝒍𝒍𝒐 𝑾𝒆𝒃 𝒚 𝒑𝒂𝒓𝒕𝒊𝒄𝒊𝒑𝒐 𝒆𝒏 𝒆𝒍 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒂 𝑰𝒎𝒑𝒂𝒄𝒕#𝒄𝒆𝒓𝒐 𝒅𝒆 𝒍𝒂 𝑭𝒖𝒏𝒅𝒂𝒄𝒊ó𝒏 𝑮𝒐𝒐𝒅𝒋𝒐𝒃.
+Actualmente soy estudiante de Desarrollo Web y participo en el programa Impatc#cero de la Fundación Goodjob.
 
-𝑺𝒐𝒚 𝑫𝒐𝒄𝒕𝒐𝒓𝒂 𝒆𝒏 𝑩𝒊𝒐𝒍𝒐𝒈í𝒂 𝑴𝒐𝒍𝒆𝒄𝒖𝒍𝒂𝒓 𝒑𝒐𝒓 𝒍𝒂 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒅𝒂𝒅 𝒅𝒆 𝒁𝒂𝒓𝒂𝒈𝒐𝒛𝒂 (𝑬𝒔𝒑𝒂ñ𝒂) 𝒚 𝑳𝒊𝒄𝒆𝒏𝒄𝒊𝒂𝒅𝒂 𝒆𝒏 𝑩𝒊𝒐𝒂𝒏á𝒍𝒊𝒔𝒊𝒔 𝒑𝒐𝒓 𝒍𝒂 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒅𝒂𝒅 𝒅𝒆 𝑳𝒐𝒔 𝑨𝒏𝒅𝒆𝒔 (𝑽𝒆𝒏𝒆𝒛𝒖𝒆𝒍𝒂).
+Soy Doctora en Biología Molecular por la Universidad de Zaragoza (España) y Licenciada en Bioanálisis por la Univerisdad de Los Andes (Venezuela).
 
-𝑨𝒅𝒆𝒎á𝒔, 𝒄𝒖𝒆𝒏𝒕𝒐 𝒄𝒐𝒏 𝒖𝒏𝒂 𝒇𝒐𝒓𝒎𝒂𝒄𝒊ó𝒏 𝒄𝒐𝒎𝒐 𝑻é𝒄𝒏𝒊𝒄𝒐 𝑺𝒖𝒑𝒆𝒓𝒊𝒐𝒓 𝒆𝒏 𝑫𝒆𝒔𝒂𝒓𝒓𝒐𝒍𝒍𝒐 𝒅𝒆 𝑨𝒑𝒍𝒊𝒄𝒂𝒄𝒊𝒐𝒏𝒆𝒔 𝑴𝒖𝒍𝒕𝒊𝒑𝒍𝒂𝒕𝒂𝒇𝒐𝒓𝒎𝒂 𝒚 𝒄𝒐𝒎𝒐 𝑨𝒖𝒙𝒊𝒍𝒊𝒂𝒓 𝑻é𝒄𝒏𝒊𝒄𝒐 𝒅𝒆 𝑽𝒆𝒕𝒆𝒓𝒊𝒏𝒂𝒓𝒊𝒂.
+Además, cuento con una formación como técnico Superior en Desarrollo de Aplicaciones Multiplataforma y como Auxiliar Técnico de Veterinaria.
 
-𝑷𝒖𝒆𝒅𝒆𝒔 𝒄𝒐𝒏𝒕𝒂𝒄𝒕𝒂𝒓𝒎𝒆 𝒅𝒊𝒓𝒆𝒄𝒕𝒂𝒎𝒆𝒏𝒕𝒆 𝒂 𝒕𝒓𝒂𝒗é𝒔 𝒅𝒆 𝒎𝒊 𝒄𝒐𝒓𝒓𝒆𝒐 𝒆𝒍𝒆𝒄𝒕𝒓ó𝒏𝒊𝒄𝒐 𝒎𝒂𝒓𝒊𝒂.𝒏𝒆𝒍𝒐.𝒅𝒂𝒎@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎
+Puedes contactarme directamente a través de mi correo electrónico maria.nelo.dam@gmail.com
