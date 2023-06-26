@@ -1,11 +1,11 @@
-👋 Hola.
+👋 𝙷𝚘𝚕𝚊.
 
-Mi nombre es María Alejandra Nelo Bázan. 
+𝙼𝚒 𝚗𝚘𝚖𝚋𝚛𝚎 𝚎𝚜 𝙼𝚊𝚛í𝚊 𝙰𝚕𝚎𝚓𝚊𝚗𝚍𝚛𝚊 𝙽𝚎𝚕𝚘 𝙱á𝚣𝚊𝚗.
 
-Actualmente soy estudiante de Desarrollo Web y participo en el programa Impatc#cero de la Fundación Goodjob.
+𝙰𝚌𝚝𝚞𝚊𝚕𝚖𝚎𝚗𝚝𝚎 𝚜𝚘𝚢 𝚎𝚜𝚝𝚞𝚍𝚒𝚊𝚗𝚝𝚎 𝚍𝚎 𝙳𝚎𝚜𝚊𝚛𝚛𝚘𝚕𝚕𝚘 𝚆𝚎𝚋 𝚢 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚘 𝚎𝚗 𝚎𝚕 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚊 𝙸𝚖𝚙𝚊𝚝𝚌#𝚌𝚎𝚛𝚘 𝚍𝚎 𝚕𝚊 𝙵𝚞𝚗𝚍𝚊𝚌𝚒ó𝚗 𝙶𝚘𝚘𝚍𝚓𝚘𝚋.
 
-Soy Doctora en Biología Molecular por la Universidad de Zaragoza (España) y Licenciada en Bioanálisis por la Univerisdad de Los Andes (Venezuela).
+𝚂𝚘𝚢 𝙳𝚘𝚌𝚝𝚘𝚛𝚊 𝚎𝚗 𝙱𝚒𝚘𝚕𝚘𝚐í𝚊 𝙼𝚘𝚕𝚎𝚌𝚞𝚕𝚊𝚛 𝚙𝚘𝚛 𝚕𝚊 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚍𝚊𝚍 𝚍𝚎 𝚉𝚊𝚛𝚊𝚐𝚘𝚣𝚊 (𝙴𝚜𝚙𝚊ñ𝚊) 𝚢 𝙻𝚒𝚌𝚎𝚗𝚌𝚒𝚊𝚍𝚊 𝚎𝚗 𝙱𝚒𝚘𝚊𝚗á𝚕𝚒𝚜𝚒𝚜 𝚙𝚘𝚛 𝚕𝚊 𝚄𝚗𝚒𝚟𝚎𝚛𝚒𝚜𝚍𝚊𝚍 𝚍𝚎 𝙻𝚘𝚜 𝙰𝚗𝚍𝚎𝚜 (𝚅𝚎𝚗𝚎𝚣𝚞𝚎𝚕𝚊).
 
-Además, cuento con una formación como Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y como Auxiliar Técnico de Veterinaria.
+𝙰𝚍𝚎𝚖á𝚜, 𝚌𝚞𝚎𝚗𝚝𝚘 𝚌𝚘𝚗 𝚞𝚗𝚊 𝚏𝚘𝚛𝚖𝚊𝚌𝚒ó𝚗 𝚌𝚘𝚖𝚘 𝚃é𝚌𝚗𝚒𝚌𝚘 𝚂𝚞𝚙𝚎𝚛𝚒𝚘𝚛 𝚎𝚗 𝙳𝚎𝚜𝚊𝚛𝚛𝚘𝚕𝚕𝚘 𝚍𝚎 𝙰𝚙𝚕𝚒𝚌𝚊𝚌𝚒𝚘𝚗𝚎𝚜 𝙼𝚞𝚕𝚝𝚒𝚙𝚕𝚊𝚝𝚊𝚏𝚘𝚛𝚖𝚊 𝚢 𝚌𝚘𝚖𝚘 𝙰𝚞𝚡𝚒𝚕𝚒𝚊𝚛 𝚃é𝚌𝚗𝚒𝚌𝚘 𝚍𝚎 𝚅𝚎𝚝𝚎𝚛𝚒𝚗𝚊𝚛𝚒𝚊.
 
-Puedes contactarme directamente a través de mi correo electrónico maria.nelo.dam@gmail.com
+𝙿𝚞𝚎𝚍𝚎𝚜 𝚌𝚘𝚗𝚝𝚊𝚌𝚝𝚊𝚛𝚖𝚎 𝚍𝚒𝚛𝚎𝚌𝚝𝚊𝚖𝚎𝚗𝚝𝚎 𝚊 𝚝𝚛𝚊𝚟é𝚜 𝚍𝚎 𝚖𝚒 𝚌𝚘𝚛𝚛𝚎𝚘 𝚎𝚕𝚎𝚌𝚝𝚛ó𝚗𝚒𝚌𝚘 𝚖𝚊𝚛𝚒𝚊.𝚗𝚎𝚕𝚘.𝚍𝚊𝚖@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖
