@@ -29,7 +29,7 @@ SOBRE MÍ
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>   
     <a href="https://www.kali.org/" target="_blank" rel="noopener noreferrer">
-        <img src="kali-linux" alt="kalilinux" width="40" height="40"/>
+        <img src="kali-linux.png" alt="kalilinux" width="40" height="40"/>
     </a>
 </p>
 
