@@ -28,8 +28,8 @@ SOBRE MÍ
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>   
-    <a href="kali-linux-dragon-logo.jpg" target="_blank" rel="noopener noreferrer">
-        <img src="" alt="kali linux" width="40" height="40"/>
+    <a href="https://www.kali.org/" target="_blank" rel="noopener noreferrer">
+        <img src="kali-linux-dragon-logo.jpg" alt="kalilinux" width="40" height="40"/>
     </a>
 </p>
 
