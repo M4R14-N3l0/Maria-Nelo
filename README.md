@@ -1,8 +1,8 @@
-SOBRE MÍ
+## SOBRE MÍ
 
 👋 Hola. Mi nombre es María Alejandra Nelo Bázan. Actualmente soy analista de pruebas en Entelgy contratada por la Fundación Goodjob. Soy Doctora en Biología Molecular por la Universidad de Zaragoza (España) y Licenciada en Bioanálisis por la Universidad de Los Andes (Venezuela). Además, cuento con una formación como Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (España) y como Auxiliar Técnico de Veterinaria (España).
 
-## Languages and Tools:
+## Herramientas y lenguajes de programación:
 <p align="left">
      <a href="https://openai.com/chatgpt" target="_blank" rel="noopener noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/>
