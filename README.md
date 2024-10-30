@@ -29,7 +29,7 @@ SOBRE MÍ
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/>
     </a>
     <a href="https://www.kali.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/ios-filled/50/000000/kali-linux.png" alt="kali linux" width="40" height="40"/>
+        <img src="" alt="kali linux" width="40" height="40"/>
     </a>
 </p>
 
