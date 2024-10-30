@@ -28,8 +28,8 @@ SOBRE MÍ
     <a href="https://openai.com/chatgpt" target="_blank" rel="noopener noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/>
     </a>
-     <a href="https://www.kali.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.kali.org/images/logos/kali-dragon-icon.svg" alt="kalilinux" width="40" height="40"/>
+    <a href="https://www.kali.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/ios-filled/50/000000/kali-linux.png" alt="kalilinux" width="40" height="40"/>
     </a>
 </p>
 
